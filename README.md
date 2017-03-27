@@ -1,3 +1,9 @@
+## Simple-FTP
+
+An FTP client implemenation. Runs on Windows.
+
+### Details
+
 The directory "papers" contains selected papers by David Poole.
 
 The directory "code" gives code and examples of various
@@ -8,7 +14,6 @@ and serves as an index for the directory. The "file =" field gives
 the file name in the directory.
 
 The files are all compressed using "gzip". Our FTP server will
-automatically ungzip them for you.
+automatically unzip them for you.
 
-If there are any problems please contact David Poole <poole@cs.ubc.ca>.
-
+If there are any problems, please contact David Poole <poole@cs.ubc.ca>.
